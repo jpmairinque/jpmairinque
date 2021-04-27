@@ -28,8 +28,8 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
    <img align="right" alt="maicat" style="width: 130px" src="catgif2.gif">
 </div>
 
-<br>
-<br>
+##
+
 
 <div>
   <a href = "mailto: jpmairinque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
