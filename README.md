@@ -25,7 +25,7 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
   <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <div class="tenor-gif-embed" data-postid="12030261" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/cat-computer-typing-working-funny-cats-gif-12030261">Cat Computer GIF</a> from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+   <img align="right" alt="maicat" src="catgif.gif">
 </div>
 
 <br>
