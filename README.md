@@ -11,18 +11,24 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 - 📸   freelancer photographer (check out my [portifolio](https://mairinqueph.46graus.com/))
 
 #### some of my projects 📕
-
+<div style="display: flex">
+ <div>
 - ***'MaiFilmes'*** - responsive movies webpage 
 
 ![](minigif.gif)
-
+</div>
+<div>
 - ***'wave.master'*** - login screen made with reactjs
 
 ![](minigif5.gif)
-
+</div>
+<div>
 - ***'discozi'*** - login screen in html & css
 
 ![](minigif4.gif)
+</div>
+</div>
+<br>
 <div>
  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
