@@ -35,6 +35,9 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-João%20Mairinque-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-mairinque-3a02551b9/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-mairinque-3a02551b9/) 
-[![Gmail Badge](https://img.shields.io/badge/-jpmairinque@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
+<div>
+  <a href = "mailto: jpmairinque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-mairinque-3a02551b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
 
