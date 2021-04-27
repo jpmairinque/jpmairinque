@@ -4,13 +4,13 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 
 *//sou o joão e curso engenharia de software na puc minas* 
 
-#### 🌍 *"close you eyes: see the world inside"* 🌍
+#### 🌍 about 🌍
 - 📍   belo horizonte, brasil
 - 💻 front-end development enthusiast
 -  🎨 design & interface lover
 - 📸   freelancer photographer (check out my [portifolio](https://mairinqueph.46graus.com/))
 
-#### newest project 📕
+#### 📕 newest project 📕
 
 
 - ***'MaiFilmes'*** - responsive movies webpage 
@@ -21,10 +21,12 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 
 <br>
 <div>
- <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+<br>
 
 <div>
   <a href = "mailto: jpmairinque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
