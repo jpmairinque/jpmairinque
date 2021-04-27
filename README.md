@@ -10,6 +10,10 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 -  🎨 design & interface lover
 - 📸   freelancer photographer (check out my [portifolio](https://mairinqueph.46graus.com/))
 
+#### some of my projects 📕
+
+- *'MaiFilmes'* - responsive movies webpage 
+
 ![](minigif.gif)
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Mairinque-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-mairinque-3a02551b9/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-mairinque-3a02551b9/) 
