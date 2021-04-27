@@ -18,11 +18,11 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 
 - ***'wave.master'*** - login screen made with reactjs
 
-![](minigif2.gif)
+![](minigif4.gif)
 
 - ***'discozi'*** - login screen in html & css
 
-![](minigif3.gif)
+![](minigif5.gif)
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Mairinque-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-mairinque-3a02551b9/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-mairinque-3a02551b9/) 
