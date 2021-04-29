@@ -4,7 +4,7 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 
 *//sou o joão e curso engenharia de software na puc minas* 
 
-#### 🌍 about 🌍
+#### 🌍 about me 🌍
 - 📍   belo horizonte, brasil
 - 💻 front-end development enthusiast
 -  🎨 design & interface lover
