@@ -8,7 +8,7 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 - 📍   belo horizonte, brasil
 - 💻 front-end development enthusiast
 -  🎨 design & interface lover
-- 📸  software development intern - [arkmeds](https://www.arkmeds.com/) 
+- 👨🏽‍💻  software development intern - [arkmeds](https://www.arkmeds.com/) 
 
 #### 📕 newest project 📕
 
