@@ -7,12 +7,12 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 - 📍   belo horizonte, brasil
 - 💻 front-end development 
 -  🎨 user interface & experience
-- 👨🏽‍💻  software development intern - [arkmeds](https://www.arkmeds.com/) 
+- 👨🏽‍💻  fullstack development intern - [arkmeds](https://www.arkmeds.com/) 
 
 #### 📕 newest project 📕
 
 
-- ***'ToDoList'*** - classic to do app made with django 3.0 [webpage](https://github.com/jpmairinque/portal.maifilmes) 
+- ***'ToDoList'*** - classic [to do app](https://github.com/jpmairinque/todolist.django3) made with django 3.0 
 
 ![](todogifresized.gif)
 <div style="display: inline_block"><br>
