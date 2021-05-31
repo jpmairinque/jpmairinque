@@ -23,6 +23,7 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
   <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
+  <img align="center" alt="joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg">
  
    <img align="right" alt="maicat" style="width: 130px" src="catgif2.gif">
 </div>
