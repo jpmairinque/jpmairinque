@@ -37,6 +37,9 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-mairinque-3a02551b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
  
+ ##
+ 
+<div> 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpmairinque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmairinque&layout=compact&langs_count=16&theme=dracula"/>
-
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmairinque&layout=compact&langs_count=16&theme=dracula"/>
+</div>
