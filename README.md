@@ -7,12 +7,12 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 - 📍   belo horizonte, brasil
 - 💻 front-end development 
 -  🎨 user interface & experience
-- 👨🏽‍💻  fullstack development intern - [arkmeds](https://www.arkmeds.com.br/) 
+- 👨🏽‍💻  fullstack development intern @ [arkmeds](https://www.arkmeds.com.br/) 
 
 ✔ Check out the projects README's to find out more about them :)
 
-##
-<div style="display: inline_block"><br>
+## 
+<div style="display: inline_block">
  <img align="center" alt="joao-Js"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="joao-CSS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="joao-HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,14 +22,14 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
   <img align="center" alt="joao-Js"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
  <img align="center" alt="joao-React"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img align="center" alt="joao-Js"  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-  
- 
+   
    <img align="right" alt="maicat" style="width: 130px" src="catgif2.gif">
 </div>
 
 ##
-
+ 
 <div>
+
   <a href = "mailto: jpmairinque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-mairinque-3a02551b9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
