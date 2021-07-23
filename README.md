@@ -21,7 +21,7 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
  <img align="center" alt="joao-sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="joao-Js"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
  <img align="center" alt="joao-React"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
-  <img align="center" alt="joao-Js"  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+  
    
    <img align="right" alt="maicat" style="width: 130px" src="catgif2.gif">
 </div>
