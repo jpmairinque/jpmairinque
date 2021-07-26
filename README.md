@@ -1,4 +1,4 @@
-# hi! 😁
+# hi!
 
 I'm **João**, currently studying to become a **software engineer**! 👨🏽‍💻
 
