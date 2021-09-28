@@ -9,7 +9,7 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 -  🎨 user interface & experience
 - 👨🏽‍💻  fullstack development intern @ [arkmeds](https://www.arkmeds.com.br/) 
 
-✔ Check out the project's READMEs to find out more about them :)
+✔ Check out the projects READMEs to find out more about them :)
 
 ## 
 <div style="display: inline_block">
