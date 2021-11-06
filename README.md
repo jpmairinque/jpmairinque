@@ -7,7 +7,7 @@ I'm **João**, currently studying to become a **software engineer**! 👨🏽‍
 - 📍   belo horizonte, brasil
 - 💻 front-end development 
 -  🎨 user interface & experience
-- 👨🏽‍💻  fullstack development intern @ [arkmeds](https://www.arkmeds.com.br/) 
+- 👨🏽‍💻  front-end engineer @ [arkmeds](https://www.arkmeds.com.br/) 
 
 ✔ Check out the projects READMEs to find out more about them :)
 
