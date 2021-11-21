@@ -1,6 +1,6 @@
 # hi!
 
-I'm **João**, currently studying to become a **software engineer**! 👨🏽‍💻
+I'm **João**, currently a **front-end software engineer**! 👨🏽‍💻
 
 *//sou o joão e curso engenharia de software na puc minas* 
 
