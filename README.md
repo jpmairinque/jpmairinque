@@ -2,7 +2,7 @@
 
 I'm **João**, currently a **front-end software engineer**! 👨🏽‍💻
 
-*//sou o joão e curso engenharia de software na puc minas* 
+*// oi! sou o joão e curso engenharia de software na puc minas* 
 
 - 📍   belo horizonte, brasil
 - 💻 front-end development 
