@@ -9,7 +9,7 @@ I'm **João**, currently a **front-end software engineer**! 👨🏽‍💻
 -  🎨 user interface & experience
 - 👨🏽‍💻  front-end engineer @ [arkmeds](https://www.arkmeds.com.br/) 
 
-✔ Check out the projects READMEs to find out more about them :)
+✔ Check out the READMEs of the projects to find out more about them :)
 
 ## 
 <div style="display: inline_block">
