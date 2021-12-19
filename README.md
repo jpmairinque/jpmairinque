@@ -1,6 +1,6 @@
 # hi!
 
-I'm **João**, currently a **front-end software engineer**! 👨🏽‍💻
+I'm **João**, currently a **frontend software engineer**! 👨🏽‍💻
 
 *// oi! sou o João, desenvolvedor front-end e curso engenharia de software na puc minas* 
 
