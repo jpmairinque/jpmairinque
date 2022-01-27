@@ -22,6 +22,7 @@ I'm **João**, currently a **frontend software engineer**! 👨🏽‍💻
  <img align="center" alt="joao-sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="joao-Js"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">   
   <img align="center" alt="joao-Js"  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
+ <img align="center" alt="joao-Js"  src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"> 
    
    
 </div>
