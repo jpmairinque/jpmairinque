@@ -7,7 +7,7 @@ I'm **João**, currently a **frontend software engineer**! 👨🏽‍💻
 - 📍   belo horizonte, brasil
 - 💻 front-end development 
 -  🎨 user interface & experience
-- 👨🏽‍💻  front-end engineer @ [arkmeds](https://www.arkmeds.com.br/) 
+- 👨🏽‍💻  frontend engineer @ [arkmeds](https://www.arkmeds.com.br/) 
 
 ✔ Check out the READMEs of the projects to find out more about them :)
 
